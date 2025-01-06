@@ -19,10 +19,10 @@ first of all , While there are undoubtedly many tools and applications out there
 - **Job Description Summarization**: Uses advanced transformer models to summarize job descriptions, highlighting key job requirements.
 - **Keyword Matching Algorithm**: Efficiently compares the content of resumes to job descriptions using simple but effective keyword matching techniques.
 
-- ![Screenshot from 2025-01-06 14-33-40](https://github.com/user-attachments/assets/9661f7ff-1f57-4da3-9b46-cc58b3782cf1)
+![Screenshot from 2025-01-06 14-42-24](https://github.com/user-attachments/assets/b13f5ff3-9f74-4e78-9b07-e6af66cb194f)
 
-![Screenshot from 2025-01-06 14-35-40](https://github.com/user-attachments/assets/39537f93-be35-44c4-a5c3-023f4314873c)
+![Screenshot from 2025-01-06 14-43-56](https://github.com/user-attachments/assets/24d82ee9-21c8-4780-afd1-7ad0661745da)
 
-![Screenshot from 2025-01-06 14-36-00](https://github.com/user-attachments/assets/a9b97f0f-3a03-4ee6-b501-1a7444a96a44)
+![Screenshot from 2025-01-06 14-44-12](https://github.com/user-attachments/assets/c12827a6-3f95-42bc-9c23-678ac269c0b9)
 
 
