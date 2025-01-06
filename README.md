@@ -2,6 +2,7 @@
 
 first of all , While there are undoubtedly many tools and applications out there with similar functionalities, what sets this project apart is the personal approach I’ve taken to develop it from scratch. Building this tool has been a great way to learn, experiment, and integrate various advanced technologies. There's no better way to understand and showcase the capabilities of tools, models, and frameworks than by building something myself. This hands-on experience not only allows me to understand the details of each technology but also helps me demonstrate how I can solve real-world problems efficiently.
 
+and i just got started ....
 
 ### Standout Functionalities:
 - **User Role Selection**
