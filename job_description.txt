@@ -1,0 +1,1 @@
+We are looking for a Python developer with experience in data analysis, machine learning, and web development. Knowledge of Django and REST APIs is a plus.
