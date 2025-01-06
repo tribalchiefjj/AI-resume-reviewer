@@ -25,4 +25,16 @@ first of all , While there are undoubtedly many tools and applications out there
 
 ![Screenshot from 2025-01-06 14-44-12](https://github.com/user-attachments/assets/c12827a6-3f95-42bc-9c23-678ac269c0b9)
 
+## Techn & Tools
+- **Programming Languages**: Python
+- **Frameworks/Libraries**:
+  - **Streamlit**: For building the user interface and handling file uploads.
+  - **spaCy**: For NLP processing, particularly for parsing and understanding the resume content.
+  - **Transformers (Hugging Face)**: For job description summarization.
+  - **PyPDF2**: For handling PDF file extraction.
+  - **python-docx**: For handling DOCX file extraction.
+- **Cloud/Services**:
+  - **None yet (but could scale to AWS or GCP for hosting)**
+
+
 
